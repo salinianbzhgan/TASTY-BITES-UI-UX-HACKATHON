@@ -1,8 +1,8 @@
-Tasty Bites – AI-Enabled Smart Recipe, Calorie & Health Tracking System
+# Tasty Bites – AI-Enabled Smart Recipe, Calorie & Health Tracking System
 
 A Hackathon Project Report
 
-About the System
+# About the System
 
 Tasty Bites is an intelligent food-management and health-monitoring application designed to help users make healthier dietary choices through smart recommendation, calorie analysis, grocery-based recipe discovery, and personalized health tracking.
 
@@ -20,7 +20,8 @@ Visual analytics for eating patterns
 
 The system enhances user wellness, reduces food wastage, improves meal planning efficiency, and supports long-term health management through intuitive UI/UX design principles.
 
-Features
+# Features
+
 1. Intelligent Recipe Management
 
 Categorized meals (Breakfast, Lunch, Desserts, Drinks)
@@ -105,18 +106,22 @@ Streamlit’s session_state maintains persistent data
 
 Ensures smooth multi-page workflow
 
-Output Samples
-Output 1 – Dashboard & Navigation Overview
+# Output Samples
+# Output 1 – Dashboard & Navigation Overview
+![WhatsApp Image 2025-11-17 at 15 17 56_12d6e4df](https://github.com/user-attachments/assets/430b0733-66d1-4ee2-8cca-470fef8fb1ae)
+
 
 (Recipe categories, home page visuals, sidebar navigation)
 
-Output 2 – Recipe Exploration
+# Output 2 – Recipe Exploration
+![WhatsApp Image 2025-11-17 at 12 11 27_df4d0995](https://github.com/user-attachments/assets/3ab0003e-5daf-46c6-a0aa-a942012015c0)
 
 Expandable recipe cards
 
 Ingredients + calories + preparation steps
 
-Output 3 – Calorie Chart (Analytics)
+# Output 3 – Calorie Chart (Analytics)
+![WhatsApp Image 2025-11-17 at 12 13 37_1076c408](https://github.com/user-attachments/assets/c15cd497-73cc-4951-aca5-cf67b9034a88)
 
 Trend lines
 
@@ -124,7 +129,9 @@ Goal comparison
 
 Color-coded calorie levels
 
-Output 4 – Health Tracker
+# Output 4 – Health Tracker
+
+![WhatsApp Image 2025-11-17 at 12 14 28_ea718b41](https://github.com/user-attachments/assets/cac731fb-63b0-467a-a15d-62d02b1aa5ae)
 
 BMI report
 
